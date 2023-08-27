@@ -12,13 +12,13 @@
 
    Perustuu neljään vapauteen:
 
-    Ohjelmaa saa vapaasti ajaa, kaikkeen tarkoitukseen.
+   Ohjelmaa saa vapaasti ajaa, kaikkeen tarkoitukseen.
 
-    Ohjelmaa voi vapaasti opiskella ja tehdä omia muutoksia.
+   Ohjelmaa voi vapaasti opiskella ja tehdä omia muutoksia.
 
-    Vapaus jakaa ohjelmaa eteenpäin.
+   Vapaus jakaa ohjelmaa eteenpäin.
 
-    Omaa muokattua versioita voidaan jakaa eteenpäin.
+   Omaa muokattua versioita voidaan jakaa eteenpäin.
 
  
  # H1 Oma linux
