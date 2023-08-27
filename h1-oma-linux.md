@@ -1,6 +1,6 @@
  # X
 
- Raportin kirjoittaminen: 
+ ## Raportin kirjoittaminen: 
 
    Raportin pitää olla selkeä ja helppo lukuinen.
 
@@ -8,7 +8,7 @@
   
    Lähteet pitää olla mainuttu selkeästi.
 
- FSF Free Software Definition
+ ## FSF Free Software Definition
 
    Perustuu neljään vapauteen:
 
