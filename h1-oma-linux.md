@@ -15,3 +15,16 @@ Tämän jälkeen kun luulin että kaikki on valmista tupla klikkasin debian virt
 Tämän jälkeen painoin ohjeiden mukaan aloitus näytöllä olevaa "install debian". Avautui ikkunam, jossa laitoin ohjeiden mukaan kaikki tarvittavat asetukset ja "summary" kohdassa oli bugi jossa ei näkynyt "install" painiketta ja tunnilla opettaja näytti ohjeet miten sen saa näkyviin painamalla pientä neliön muotoista painiketta oikealla yläkulmassa, jonka jälkeen install nappi ilmestey ja sitä pystyi painamaan.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/436eb02f-aaa8-4eb1-9343-9b5899411bb0)
+
+installin jälkeen --> 
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/2a07ecb4-888d-4e95-94a3-dad165979288)
+
+## Lataus tehty
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/c995ac4d-04ed-44f2-85d9-c9fdc96af319)
+
+testasin, että selain toimii ja kaikki kirjaimet toimii (öäå). Tämän jälkeen avasin Terminal Emulator ja latasin päivitykset ohjeen mukaan.
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/a955096b-dfc9-4fff-923e-8a1c84e7d5f8)
+
+
