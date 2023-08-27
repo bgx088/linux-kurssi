@@ -1,7 +1,9 @@
  # X
 
  Raportin kirjoittaminen: 
-  -sdfgjsgdhfgsjhfd
+kgjhsdjkfhg
+ 
+ 
    
  
  # H1 Oma linux
