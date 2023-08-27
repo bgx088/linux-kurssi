@@ -10,4 +10,8 @@ Tämän jälkeen kun luulin että kaikki on valmista tupla klikkasin debian virt
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/adbdc331-5685-45c3-8294-95e9d5b7f947)
 
+  ## Debian asennus
+  
+Tämän jälkeen painoin ohjeiden mukaan aloitus näytöllä olevaa "install debian". Avautui ikkunam, jossa laitoin ohjeiden mukaan kaikki tarvittavat asetukset ja "summary" kohdassa oli bugi jossa ei näkynyt "install" painiketta ja tunnilla opettaja näytti ohjeet miten sen saa näkyviin painamalla pientä neliön muotoista painiketta oikealla yläkulmassa, jonka jälkeen install nappi ilmestey ja sitä pystyi painamaan.
 
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/436eb02f-aaa8-4eb1-9343-9b5899411bb0)
