@@ -1,6 +1,22 @@
+ # X
+
+ Raportin kirjoittaminen: 
+  sdfgjsgdhfgsjhfd
+   
+ 
  # H1 Oma linux
 
  ## 15.08.2023 virtualikoneen asentaminen
+ Raudan tiedot:
+
+ Prosessori: AMD Ryzen 7 5700x
+
+ Ram: 32gb 3600hz 
+
+ Näytönohjain: NVIDIA RTX 3080 - 12gb
+
+ Järjestelmä: Windows 11 
+
 
 Käytin opettajan sivulta löytyvää asennus ohjetta: https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
@@ -46,6 +62,9 @@ Ennen
 Jälkeen 
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/c6e18fb9-7c23-4166-876c-2a40b84ec485)
+
+
+All DONE
 
 
 
