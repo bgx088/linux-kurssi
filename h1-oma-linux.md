@@ -1,10 +1,25 @@
  # X
 
  Raportin kirjoittaminen: 
-kgjhsdjkfhg
- 
- 
-   
+
+   Raportin pitää olla selkeä ja helppo lukuinen.
+
+   Raportin kirjoittaminen tapahtuu samalla kuin suoritat työtä.
+  
+   Lähteet pitää olla mainuttu selkeästi.
+
+ FSF Free Software Definition
+
+   Perustuu neljään vapauteen:
+
+    Ohjelmaa saa vapaasti ajaa, kaikkeen tarkoitukseen.
+
+    Ohjelmaa voi vapaasti opiskella ja tehdä omia muutoksia.
+
+    Vapaus jakaa ohjelmaa eteenpäin.
+
+    Omaa muokattua versioita voidaan jakaa eteenpäin.
+
  
  # H1 Oma linux
 
