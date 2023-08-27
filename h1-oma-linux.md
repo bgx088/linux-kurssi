@@ -37,4 +37,16 @@ tämän jälkeen palomuurin asennus ja käyttöönotto
 
 Käynnistin uudelleen ja nyt minulla on kaikki valmista!
 
+Tein viel vapaaehtoisen tehtävän, jossa pystyn nyt säätämään ikkunan kokoa, joka helpottaa työskentelyä huomattavasti.
+
+Ennen
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/a507bed2-bc17-4436-a08c-a263b45a1203)
+
+Jälkeen 
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/c6e18fb9-7c23-4166-876c-2a40b84ec485)
+
+
+
 
