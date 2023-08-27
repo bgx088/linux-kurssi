@@ -23,8 +23,18 @@ installin jälkeen -->
 ## Lataus tehty
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/c995ac4d-04ed-44f2-85d9-c9fdc96af319)
 
-testasin, että selain toimii ja kaikki kirjaimet toimii (öäå). Tämän jälkeen avasin Terminal Emulator ja latasin päivitykset ohjeen mukaan.
+Testasin, että selain toimii ja kaikki kirjaimet toimii (öäå). Tämän jälkeen avasin Terminal Emulator ja latasin päivitykset ohjeen mukaan.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/a955096b-dfc9-4fff-923e-8a1c84e7d5f8)
+
+Lisää päivityksiä
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/703c89f9-3b7e-4b8f-9027-adc435f448b4)
+
+tämän jälkeen palomuurin asennus ja käyttöönotto 
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/7ab59f66-1d02-4a22-9601-fd24edc2050e)
+
+Käynnistin uudelleen ja nyt minulla on kaikki valmista!
 
 
