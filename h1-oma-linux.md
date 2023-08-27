@@ -83,6 +83,10 @@ Jälkeen
 
 All DONE
 
+## Lähteet
+
+ https://terokarvinen.com/2021/install-debian-on-virtualbox/
+
 
 
 
