@@ -82,6 +82,18 @@ Näkyy myös virtualboxin kautta esimerkiksi tietokoneen hiiren käyttä ja lis�
 
    ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/314d5b76-54f0-47fe-96de-0c0abf5f2815)
 
+## d)FHS
+
+Kansioiden listaus ls /
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/63242865-0993-48f1-a57c-38135d58a835)
+
+Kokeilin erilaisia komentoja
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/31c5a8d3-d6b4-4204-ac63-9d547b6e208c)
+
+
+
    
 
 
