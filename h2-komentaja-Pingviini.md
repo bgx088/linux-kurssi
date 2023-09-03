@@ -40,4 +40,6 @@ $ sudo apt-get -y install (program) this way you can install programs
 
 $ sudo apt-get purge (program) deletes the program
 
-##
+## a) Asenna Micro
+
+
