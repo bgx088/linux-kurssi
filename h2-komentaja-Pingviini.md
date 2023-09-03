@@ -46,7 +46,7 @@ Asensin Micron komennolla apt-get -y install micro
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/0559c41a-9c11-4386-9761-673ce418ac18)
 
-Lähteet: 
+Lähteet:Command Line Basic Revisited, Tero Karvinen. https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
 ## b) Rauta
 
 Kokeilin sudo lshw -short -sanitize komentoa, joka ei toiminut, jonka jälkeen latasin lhsw käyttämällä sudo apt-get -y install lshw. Latauksen jälkeen kokeilin komentoa: sudo lshw -short -sanitize ja sain ruadan tiedot sitä kautta. 
@@ -61,6 +61,8 @@ Listauksessa näköö esimerkiksi oman koneen prosessori "Processor --> AMD Ryze
 Näkyy myös virtualboxin kautta esimerkiksi tietokoneen hiiren käyttä ja lisäksi virtualboxin kovalevy muisti (64GB). 
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/dc3b0887-3507-4928-b209-0efeb39cd578)
+
+Lähteet: https://micro-editor.github.io
 
 ## c)Apt
 
@@ -82,6 +84,8 @@ Näkyy myös virtualboxin kautta esimerkiksi tietokoneen hiiren käyttä ja lis�
 
    ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/314d5b76-54f0-47fe-96de-0c0abf5f2815)
 
+Lähteet: linux-terminal-emulators,Ravi Saive. https://www.tecmint.com/linux-terminal-emulators/
+
 ## d)FHS
 
 Kansioiden listaus ls /
@@ -98,9 +102,13 @@ Grep apuri jolla voidaan etsia tarvittavia asioita... esimerkiksi voidaan etsiä
 
 Yritin kokeilla, mutta en oikein saanut komentoa toimimaan tai ainakaan löytämään tarvittavia tietoja.
 
+Lähteet: howto-use-grep-command-in-linux-unix. https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
+
 ## f)Pipe
 
 KUVA PUTKESTA!!!
+
+putkella voidaa yhdistaa komentoja
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/5874962b-da47-40ff-b478-436399c5bf58)
 
