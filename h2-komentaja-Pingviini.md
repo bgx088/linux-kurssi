@@ -62,6 +62,12 @@ Näkyy myös virtualboxin kautta esimerkiksi tietokoneen hiiren käyttä ja lis�
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/dc3b0887-3507-4928-b209-0efeb39cd578)
 
+## c)Apt
 
+1. Ternimator: Latasin käyttöen apt-get -y install terminator
+
+   Ohjelma mahdollistaa useamman terminaalin käytön samanaikaisesti.
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/d4bcaa13-7f3a-4495-bd83-81917d69df50)
 
 
