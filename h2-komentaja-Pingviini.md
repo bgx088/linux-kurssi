@@ -42,4 +42,13 @@ $ sudo apt-get purge (program) deletes the program
 
 ## a) Asenna Micro
 
+Asensin Micron komennolla apt-get -y install micro
+
+## b) Rauta
+
+Kokeilin sudo lshw -short -sanitize komentoa, joka ei toiminut, jonka jälkeen latasin lhsw käyttämällä sudo apt-get -y install lshw. Latauksen jälkeen kokeilin komentoa: sudo lshw -short -sanitize ja sain ruadan tiedot sitä kautta. 
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/3ec2b818-796c-4bba-b48b-95be5f11e84c)
+
+
 
