@@ -123,8 +123,7 @@ Selasin lisää logeja ja löysin vmboxin asennus login
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/1e5a8941-24a4-414a-a119-ab9b0d81b91c)
 
 
-
-##Lähteet:
+## Lähteet:
 
 Karvinen,T.2020. Command Line Basic Revisited. Luoettavissa: https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
 
