@@ -46,7 +46,7 @@ Asensin Micron komennolla apt-get -y install micro
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/0559c41a-9c11-4386-9761-673ce418ac18)
 
-
+Lähteet: 
 ## b) Rauta
 
 Kokeilin sudo lshw -short -sanitize komentoa, joka ei toiminut, jonka jälkeen latasin lhsw käyttämällä sudo apt-get -y install lshw. Latauksen jälkeen kokeilin komentoa: sudo lshw -short -sanitize ja sain ruadan tiedot sitä kautta. 
@@ -91,6 +91,33 @@ Kansioiden listaus ls /
 Kokeilin erilaisia komentoja
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/31c5a8d3-d6b4-4204-ac63-9d547b6e208c)
+
+## e)The Friendly M
+
+Grep apuri jolla voidaan etsia tarvittavia asioita... esimerkiksi voidaan etsiä tiettyä lausetta haluamasta tiedostosta.
+
+Yritin kokeilla, mutta en oikein saanut komentoa toimimaan tai ainakaan löytämään tarvittavia tietoja.
+
+## f)Pipe
+
+KUVA PUTKESTA!!!
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/5874962b-da47-40ff-b478-436399c5bf58)
+
+##Tukki
+
+Kokeilin aluksi /var/log ls komentoia jostain sain listan komentoja ja yritin kokeilla boot.log komentoa, mutta tuli "Binary file" niin päätin olla avaamatta.
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/4bd2b42c-7853-4b22-8a29-06e1f20d3ecb)
+
+Selasin lisää logeja ja löysin vmboxin asennus login
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/1e5a8941-24a4-414a-a119-ab9b0d81b91c)
+
+
+
+
+
 
 
 
