@@ -124,6 +124,20 @@ Selasin lisää logeja ja löysin vmboxin asennus login
 
 
 
+##Lähteet:
+
+Karvinen,T.2020. Command Line Basic Revisited. Luoettavissa: https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
+
+Ravi Saive. Linux-terminal-emulators. Luettavissa: https://www.tecmint.com/linux-terminal-emulators/
+
+Luettavissa: https://micro-editor.github.io
+
+
+
+
+
+
+
 
 
 
