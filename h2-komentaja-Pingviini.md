@@ -8,6 +8,8 @@ $ ls lists files in the working directory
 
 $ cd (text) you can move to directory and with cd.. you change dictory up.
 
+## File Manipulation
+
 $ nano FOO.TXT creates texteditor file (in nano)
 
 $ mkdir name creates new folder in directory
@@ -22,11 +24,15 @@ $ rm FILE removes file called FILE
 
 $ rm -r FILE removes the whole file and all contents (hard to get back)
 
+## Help
+
 $ man ls shows manual for commands
 
 pressin [tab] helps you autocomplete your commands 
 
 $ ls /var/log/ you can check logs to see what has been done
+
+## Administrative Commands
 
 $ sudo apt-get update updates all available packages
 
