@@ -53,5 +53,15 @@ Kokeilin sudo lshw -short -sanitize komentoa, joka ei toiminut, jonka jälkeen l
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/3ec2b818-796c-4bba-b48b-95be5f11e84c)
 
+Listauksessa näköö esimerkiksi oman koneen prosessori "Processor --> AMD Ryzen 7 5700x 8-Core Processor"
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/ca902c53-38c0-4757-91a1-187305ad5a10)
+
+
+Näkyy myös virtualboxin kautta esimerkiksi tietokoneen hiiren käyttä ja lisäksi virtualboxin kovalevy muisti (64GB). 
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/dc3b0887-3507-4928-b209-0efeb39cd578)
+
+
 
 
