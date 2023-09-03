@@ -30,3 +30,6 @@ $ ls /var/log/ you can check logs to see what has been done
 
 $ sudo apt-get update updates all available packages
 
+$ sudo apt-get -y install (program) this way you can install programs
+
+$ sudo apt-get purge (program) deletes the program
