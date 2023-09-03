@@ -64,10 +64,25 @@ Näkyy myös virtualboxin kautta esimerkiksi tietokoneen hiiren käyttä ja lis�
 
 ## c)Apt
 
-1. Ternimator: Latasin käyttöen apt-get -y install terminator
+1. Ternimator: Latasin käyttöen sudo apt-get -y install terminator
 
    Ohjelma mahdollistaa useamman terminaalin käytön samanaikaisesti.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/d4bcaa13-7f3a-4495-bd83-81917d69df50)
+
+2. Tilda: Latasin käyttäen sudo apt-get -y install tilda
+
+   Ohjelma mahdollistaa ulkonäön muokkaamista terminaalin sisällä.
+
+   ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/819c7eed-7b70-491d-a9f2-ce395d531cf6)
+
+3. Kitty: Latasin käyttäen sudo apt-get -y install kitty
+
+   Tämäkin mahdollistaa useamman terminaalin avaamisen.
+
+   ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/314d5b76-54f0-47fe-96de-0c0abf5f2815)
+
+   
+
 
 
