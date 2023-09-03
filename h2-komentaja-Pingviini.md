@@ -112,7 +112,7 @@ putkella voidaa yhdistaa komentoja
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/5874962b-da47-40ff-b478-436399c5bf58)
 
-##Tukki
+## g)Tukki
 
 Kokeilin aluksi /var/log ls komentoia jostain sain listan komentoja ja yritin kokeilla boot.log komentoa, mutta tuli "Binary file" niin päätin olla avaamatta.
 
