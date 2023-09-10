@@ -20,3 +20,5 @@ Tämä osio tehtiin jo oppitunnilla ja unohdin ottaa kuvankaappaukset, mutta onn
 
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/e8d040ed-cf07-4e6e-8c80-aba402ed32d3)
+
+Toimii! :)
