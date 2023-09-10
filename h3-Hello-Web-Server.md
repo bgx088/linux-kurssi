@@ -35,7 +35,11 @@ Tämän jälkeen menin etsimään onnistuneita lokeja komennolla "sudo tail -F /
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/18e3fbf3-dc15-41d2-a835-a6e8b333953e)
 
-Lokissa näkyy esimerkiksi milloin tapahtuma on tehty (päivämäärä muodossa), "GET" tarkoittaa, että jotakin haetaan (esimerkiksi /~alan HTTP/1.1", jonka perässy näkyy myös tuo edellinen 404 virhe ilmoitus, Mozilla on selain ja Linux x86_64 on meidän virtuaalikone/systeemi.
+Lokissa näkyy esimerkiksi milloin tapahtuma on tehty (päivämäärä muodossa), "GET" tarkoittaa, että jotakin haetaan (esimerkiksi /~alan HTTP/1.1", jonka perässä näkyy myös tuo edellinen 404 virhe ilmoitus, Mozilla on selain ja Linux x86_64 on meidän virtuaalikone/systeemi.
+
+## c) Vaihda Apache esimerkkisivu
+
+
 
 
 
