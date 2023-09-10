@@ -29,6 +29,12 @@ Ensimmäiseksi haetaan oma sivusto selaimesta "http://localhost/~alan" ja saada 
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/872ee4e4-2920-4611-9b6a-687d594c7f72)
 
+Tämän jälkeen menin etsimään onnistuneita lokeja komennolla "sudo tail -F /var/log/apache2/access.log" ja tämän jälkeen vielä epäonnistuneet lokit komennolla "sudo tail -F /var/lor/apache2/error.log"
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/1c54b8b0-4f39-4b75-8136-21821be13069)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/18e3fbf3-dc15-41d2-a835-a6e8b333953e)
+
 
 
 
