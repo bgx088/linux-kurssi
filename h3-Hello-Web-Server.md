@@ -22,3 +22,14 @@ Tämä osio tehtiin jo oppitunnilla ja unohdin ottaa kuvankaappaukset, mutta onn
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/e8d040ed-cf07-4e6e-8c80-aba402ed32d3)
 
 Toimii! :)
+
+## b) Etsi lokista
+
+Ensimmäiseksi haetaan oma sivusto selaimesta "http://localhost/~alan" ja saada virhekoodi "404 Not Found" ja tämähän on normaalia, sillä emme ole vielä louneet omaa sivustoa.
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/872ee4e4-2920-4611-9b6a-687d594c7f72)
+
+
+
+
+
