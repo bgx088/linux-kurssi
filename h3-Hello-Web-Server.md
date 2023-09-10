@@ -47,5 +47,7 @@ Aloitin komenolla cs /var/www/html, jonka jälkeen lisäsin viimeviikolla lataam
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/69a8c293-817a-499f-99c8-ef986c91ffd8)
 
+## d) Laita käyttäjien kotisivut toimimaan
+
 
 
