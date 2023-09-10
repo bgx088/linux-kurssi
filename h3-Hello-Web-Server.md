@@ -39,7 +39,13 @@ Lokissa näkyy esimerkiksi milloin tapahtuma on tehty (päivämäärä muodossa)
 
 ## c) Vaihda Apache esimerkkisivu
 
+Aloitin komenolla cs /var/www/html, jonka jälkeen lisäsin viimeviikolla lataamani micro ohjelman "micro index.html" ja lähdin muokkaamaan sivustoa (lähinä vain poistin kaikki edelliset apache tekstit ja lisäsin oman lauseen).
 
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/f91f41c1-9704-424a-a85c-994d76d256d9)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/172c3ebb-2486-412f-8afe-7c937b8e0ca5)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/69a8c293-817a-499f-99c8-ef986c91ffd8)
 
 
 
