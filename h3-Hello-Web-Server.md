@@ -55,7 +55,7 @@ Ensimmäisenä loin itselleni sivun komennolla "sudo a2enmod userdir", tämän j
 
 Lähteet: Short html5 page,(Tero Karvinen, 2012). https://terokarvinen.com/2012/short-html5-page/
 
-## f)Tee validi HTML5 sivu.
+## e)Tee validi HTML5 sivu.
 
 Käytin https://validator.w3.org. Pienen muokkailun jälkeen sain toimimaan ilman erroreita :)
 
@@ -63,6 +63,11 @@ Käytin https://validator.w3.org. Pienen muokkailun jälkeen sain toimimaan ilma
 
 Lähteet: Short html5 page,(Tero Karvinen, 2012). https://terokarvinen.com/2012/short-html5-page/
 
+## f) curl -I ja curl
+
+Curl lisätään ennen http sivustoa ja sillä saadaan tiedot sivuston html-koodi "curl http://localhost/~alan/". Curl -I taas kertoo HTTP tiedot, esimerkiksi nykyisen päivämäärän, muokkaus päivän, palvelimen, koon, sivusto tyypin.
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/2fd7c6ce-cf8d-4933-bf45-48a1ad6a0298)
 
 
 
