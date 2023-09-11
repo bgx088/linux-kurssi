@@ -49,8 +49,9 @@ Aloitin komenolla cs /var/www/html, jonka jälkeen lisäsin viimeviikolla lataam
 
 ## d) Laita käyttäjien kotisivut toimimaan
 
-![image](https://github.com/bgx088/linux-kurssi/assets/143337810/545f037f-f180-441f-8d0b-cc77640850c7)
+Ensimmäisenä loin itselleni sivun komennolla "sudo a2enmod userdir", tämän jälkeen käynnistin sen uudelleen komennolla "systmectl restart apache2" ja lopuksi vielä tiedosto johon voin kirjoittaa sivuston koodia "mkdir public_html"
 
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/545f037f-f180-441f-8d0b-cc77640850c7)
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/6c2da9e2-c9f2-48c2-888a-573d688e49f3)
 
