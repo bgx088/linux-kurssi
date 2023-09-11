@@ -55,6 +55,13 @@ Ensimmäisenä loin itselleni sivun komennolla "sudo a2enmod userdir", tämän j
 
 Lähteet: Short html5 page,(Tero Karvinen, 2012). https://terokarvinen.com/2012/short-html5-page/
 
+## f)Tee validi HTML5 sivu.
+
+Pienen muokkailun jälkeen sain toimimaan ilman erroreita :)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/b8b40908-91e6-47c3-a29a-820344d28e01)
+
+
 
 
 
