@@ -69,6 +69,10 @@ Curl lisätään ennen http sivustoa ja sillä saadaan tiedot sivuston html-kood
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/2fd7c6ce-cf8d-4933-bf45-48a1ad6a0298)
 
+## Lähteet:
 
+Install apache web server on ubuntu, (Tero Karvinen, 2008). Luettavissa: https://terokarvinen.com/2008/05/02/install-apache-web-server-on-ubuntu-4/
 
+Short html5 page,(Tero Karvinen, 2012).Luettavissa: https://terokarvinen.com/2012/short-html5-page/
 
+Linux palvelimet 2023 alkusyksy,(Tero Karvinen, 2023). Luettavissa: https://terokarvinen.com/2023/linux-palvelimet-2023-alkusyksy/
