@@ -49,5 +49,15 @@ Aloitin komenolla cs /var/www/html, jonka jälkeen lisäsin viimeviikolla lataam
 
 ## d) Laita käyttäjien kotisivut toimimaan
 
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/545f037f-f180-441f-8d0b-cc77640850c7)
+
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/6c2da9e2-c9f2-48c2-888a-573d688e49f3)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/7ea46fd6-743f-4469-a60d-35add74fe8bf)
+
+Lähteet: Short html5 page,(Tero Karvinen, 2012). https://terokarvinen.com/2012/short-html5-page/
+
+
 
 
