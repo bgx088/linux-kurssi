@@ -13,3 +13,9 @@ Sivulla on kerrottu miten voidaan luoda uusi virtuaali palvelin (esimerkkinä Di
 * Tehdään käyttäjä ja lukitaan root käyttäjä.
 
 * Lopuksi vielä haetaan päivitykset "sudo apt-get update" ja "sudo apt-get upgrade"
+
+## a) Vuokraa oma virtuaalipalvelin
+
+
+
+  
