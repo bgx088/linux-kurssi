@@ -56,6 +56,13 @@ Testasin vielä, että sivusto löytyy selaimesta (haku ip-osoitteella) "161.35.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/8cb5218f-59b9-49cd-9c40-5d1e13464c7a)
 
+## d) Murtautumisyritykset
+
+Kävin vielä nopeasti vilkaisemassa murtautumisyritkset "journalctl SYSLOG_FACILITY=10 # auth events", mutta jostain syystä en nähnyt mitään lokeja? Kokeilin muita komentoja, mutta mikään ei näyttänyt toimivan.
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/673e8514-f122-4ea8-9daf-a94fda7c903a)
+
+
 
 
 
