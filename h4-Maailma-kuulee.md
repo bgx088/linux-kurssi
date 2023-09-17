@@ -62,6 +62,12 @@ Kävin vielä nopeasti vilkaisemassa murtautumisyritkset "journalctl SYSLOG_FACI
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/673e8514-f122-4ea8-9daf-a94fda7c903a)
 
+## Lähteet:
+
+First Steps on a New Virtual Private Server - an Example on DigitalOcean and Ubuntu 16.04 LTS,(Tero Karvinen,2017. Luettavissa: https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/
+
+Linux palvelimet 2023 alkusyksy,(Tero Karvinen, 2023). Luettavissa: https://terokarvinen.com/2023/linux-palvelimet-2023-alkusyksy/
+
 
 
 
