@@ -21,4 +21,7 @@ Sivulla on kerrottu miten voidaa hostata monta web-palvelua yhtellä ip-osoittee
 *  curl localhost
 
  https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
-  
+
+## a) Vuokraa domain-nimi
+
+
