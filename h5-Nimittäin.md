@@ -14,5 +14,11 @@ https://terokarvinen.com/2016/02/16/new-default-website-with-apache2-show-your-h
 Sivulla on kerrottu miten voidaa hostata monta web-palvelua yhtellä ip-osoitteella.
 
 * Lisätään uusi virtuaalipalvelin ja käynnistetään se uudelleen: ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/fdc557d6-ef60-45ea-ab56-ea3fb3c88d3d)
+* luodaan sivusto ja testataan:
+*  mkdir -p /home/xubuntu/publicsites/pyora.example.com/
+*  echo pyora > /home/xubuntu/publicsites/pyora.example.com/index.html
+*  curl -H 'Host: pyora.example.com' localhost
+*  curl localhost
 
+ https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
   
