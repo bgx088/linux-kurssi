@@ -13,16 +13,6 @@ https://terokarvinen.com/2016/02/16/new-default-website-with-apache2-show-your-h
 
 Sivulla on kerrottu miten voidaa hostata monta web-palvelua yhtellä ip-osoitteella.
 
-* Lisätään uusi virtuaalipalvelin ja käynnistetään se uudelleen: $ sudoedit /etc/apache2/sites-available/pyora.example.com.conf
-$ cat /etc/apache2/sites-available/pyora.example.com.conf
-<VirtualHost *:80>
- ServerName pyora.example.com
- ServerAlias www.pyora.example.com
- DocumentRoot /home/xubuntu/publicsites/pyora.example.com
- <Directory /home/xubuntu/publicsites/pyora.example.com>
-   Require all granted
- </Directory>
-</VirtualHost>
-$ sudo a2ensite pyora.example.com
-$ sudo systemctl restart apache2
-* 
+* Lisätään uusi virtuaalipalvelin ja käynnistetään se uudelleen: ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/fdc557d6-ef60-45ea-ab56-ea3fb3c88d3d)
+
+  
