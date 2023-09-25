@@ -31,3 +31,7 @@ Domainin vuokrausta varten käytin namecheap.com sivustua ja käytin myös guthu
 Tilauksen jälkeen menin Domain list kohdasta "Adavanced DNS" välilehdelle ja sieltä laitoin "host records" kohtaan oman virtuaalipalvelimeni IP-osoitteen. Nyt sivusto löytyy osoitteesta www.alaninsivu.me
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/8ea49fc3-0998-419d-a73f-e7a10b38f833)
+
+## b) Tutki oman nimesi tietoja
+
+
