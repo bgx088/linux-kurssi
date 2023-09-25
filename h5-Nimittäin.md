@@ -28,3 +28,6 @@ Domainin vuokrausta varten käytin namecheap.com sivustua ja käytin myös guthu
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/fb34e2aa-05b6-4f62-b365-748aa54819fd)
 
+Tilauksen jälkeen menin Domain list kohdasta "Adavanced DNS" välilehdelle ja sieltä laitoin "host records" kohtaan oman virtuaalipalvelimeni IP-osoitteen. Nyt sivusto löytyy osoitteesta www.alaninsivu.me
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/8ea49fc3-0998-419d-a73f-e7a10b38f833)
