@@ -34,4 +34,9 @@ Tilauksen jälkeen menin Domain list kohdasta "Adavanced DNS" välilehdelle ja s
 
 ## b) Tutki oman nimesi tietoja
 
+Ensimmäseksi yritin "host alaninsivu.me" komentoa, mutta minulla ei ollu sitä asennettu, joten asensinsin sen ja samalla myös dig komentoa varten dns utilities. "sudo apt-get install host" ja "sudo apt-get install dnsutils".
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/06e5b23f-3c08-4e75-8914-ba0f0522ded5)
+
+Host komennon avulla saadaan tulostettua palvelimen IP-osoite. Lisäksi saadaan MX-records, jotka ovat jonkin tyyppisen sähköpostipalvelinten paketit. Alkuosassa nähdään kenen paketteje käsitellään ja lopussa näkyy ketkä niitä käsittelee
 
