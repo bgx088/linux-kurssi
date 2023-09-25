@@ -24,5 +24,7 @@ Sivulla on kerrottu miten voidaa hostata monta web-palvelua yhtellä ip-osoittee
 
 ## a) Vuokraa domain-nimi
 
+Domainin vuokrausta varten käytin namecheap.com sivustua ja käytin myös guthubin educational-pakettia ja sain tämän kautta ilmaisen .me päätteisen domanin nimen. Pienen kikkailun jälkeen sain kirjauduttua ja lunastettuun etuuden. 
+
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/fb34e2aa-05b6-4f62-b365-748aa54819fd)
 
