@@ -38,5 +38,18 @@ Ensimmäseksi yritin "host alaninsivu.me" komentoa, mutta minulla ei ollu sitä 
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/06e5b23f-3c08-4e75-8914-ba0f0522ded5)
 
-Host komennon avulla saadaan tulostettua palvelimen IP-osoite. Lisäksi saadaan MX-records, jotka ovat jonkin tyyppisen sähköpostipalvelinten paketit. Alkuosassa nähdään kenen paketteje käsitellään ja lopussa näkyy ketkä niitä käsittelee
+Host komennon avulla saadaan tulostettua palvelimen IP-osoite. Lisäksi saadaan MX-records, jotka ovat jonkin tyyppisen sähköpostipalvelinten paketit. Alkuosassa nähdään kenen paketteje käsitellään ja lopussa näkyy ketkä niitä käsittelee.
 
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/79ef0da5-824c-4ff5-97ba-116cbcc21a55)
+
+Komennolla "dig alaninsivu.me" saadaa hyvin sekavan näköinen lista tietoa. 
+* Ihan ylhäällä on debianin versio ja syötetty osoite.
+* Global option +cmd ei oikein selvinnyt, mutta voiko liittyä terminaaliin?
+* Got answear = saatu vastaus
+* Status ja sen id eli NOERROR meni läpi
+* flags voisiko olla jonkin näköin hakemisto ja 0 ja 1 vastauksia?
+* OPT on jonkin näköinen DNS lisätieto
+* Saadut vastaukset
+* Osoite
+* Aika
+* Vastauksen koko
