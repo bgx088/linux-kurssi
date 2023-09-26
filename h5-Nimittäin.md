@@ -53,3 +53,5 @@ Komennolla "dig alaninsivu.me" saadaa hyvin sekavan näköinen lista tietoa.
 * Osoite
 * Aika
 * Vastauksen koko
+
+## c) Etusivu uusiksi
