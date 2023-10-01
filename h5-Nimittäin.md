@@ -66,9 +66,22 @@ otin sen käyttöön sudo a2ensite alan.conf komennolla ja käynnistin taas apac
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/f343367d-e736-446c-b3b7-cebbef7f51f7)
 
+Lisäksi poistin vanhan köytöstä komennolla sudo a2dissite 000-default.conf.
+
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/b5ff0470-36ac-4015-9024-c1c9c280b5fd)
+
+Tämän jälkeen sivusto näytti forbideniä ja jäin tähän kohtaan hieman jumiin. Koulukaverin kanssa tätä pähkäiltiin pitkään ja löysimme kyllä tuon chmod komennon, mutta emmä päässeet sitä pidemmälle... Lopulta asiat selvisi vasta seuraavalla oppitunnilla. 
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/e35345a5-1aac-439f-87ff-e5f563501102)
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/ace4d54b-0f82-4064-9c11-3efe9c3b6c6b)
 
+##Lähteet
+
+https://www.makeuseof.com/you-dont-have-permission-to-access-on-this-server/
+
+https://terokarvinen.com/2016/02/16/new-default-website-with-apache2-show-your-homepage-at-top-of-example-com-no-tilde/
+
+https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
+
+https://httpd.apache.org/docs/2.4/vhosts/name-based.html
