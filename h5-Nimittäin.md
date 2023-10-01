@@ -60,7 +60,7 @@ Muodostin yhteyden ssh kautta ssh alan@161.35.204.205 ja annoin käyttäjille ma
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/0e8b6865-417d-4136-b002-7ec34327e759)
 
 Tämän jälkeen asensin ja loin microlla index.html, johon laitoin simppelin kotisivun. Seuraavaksi lisäsin sudoedit /etc/apache2/sites-available/alan.conf avulla uuden virtuaalipalvelimen ja
-otin sen käyttöön sudo a2ensite alan.conf komennolla ja käynnistin taas apachen uudelleen. 
+otin sen käyttöön sudo a2ensite alan.conf komennolla ja käynnistin taas apachen uudelleen. (Tässä tehtävässä haastavinta oli navigoida hakemistojen välillä.)
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/146c7669-e171-4b23-abc7-83d02d9868fe)
 
