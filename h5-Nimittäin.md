@@ -56,13 +56,11 @@ Komennolla "dig alaninsivu.me" saadaa hyvin sekavan näköinen lista tietoa.
 
 ## c) Etusivu uusiksi
 
-![image](https://github.com/bgx088/linux-kurssi/assets/143337810/40ab53ca-440a-41d2-b93d-cc13eea91f66)
-
-![image](https://github.com/bgx088/linux-kurssi/assets/143337810/82533b97-273e-4eb6-ad0f-4827e6134d6a)
-
-![image](https://github.com/bgx088/linux-kurssi/assets/143337810/76419449-af70-4f14-aff2-c13d539213f6)
-
 muokkaa
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/0e8b6865-417d-4136-b002-7ec34327e759)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/146c7669-e171-4b23-abc7-83d02d9868fe)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/f343367d-e736-446c-b3b7-cebbef7f51f7)
 
