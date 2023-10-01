@@ -62,3 +62,7 @@ Komennolla "dig alaninsivu.me" saadaa hyvin sekavan näköinen lista tietoa.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/76419449-af70-4f14-aff2-c13d539213f6)
 
+muokkaa
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/0e8b6865-417d-4136-b002-7ec34327e759)
+
