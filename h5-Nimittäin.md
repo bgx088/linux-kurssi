@@ -31,14 +31,13 @@ Domainin vuokrausta varten käytin namecheap.com sivustua ja käytin myös guthu
 
 Tilauksen jälkeen menin Domain list kohdasta "Adavanced DNS" välilehdelle ja sieltä laitoin "host records" kohtaan oman virtuaalipalvelimeni IP-osoitteen. Nyt sivusto löytyy osoitteesta www.alaninsivu.me
 
-![image](https://github.com/bgx088/linux-kurssi/assets/143337810/8ea49fc3-0998-419d-a73f-e7a10b38f833)
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/06e5b23f-3c08-4e75-8914-ba0f0522ded5)
 
 ## b) Tutki oman nimesi tietoja
 
 Ensimmäseksi yritin "host alaninsivu.me" komentoa, mutta minulla ei ollu sitä asennettu, joten asensinsin sen ja samalla myös dig komentoa varten dns utilities. "sudo apt-get install host" ja "sudo apt-get install dnsutils".
 
-![image](https://github.com/bgx088/linux-kurssi/assets/143337810/06e5b23f-3c08-4e75-8914-ba0f0522ded5)
-
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/8ea49fc3-0998-419d-a73f-e7a10b38f833)
 Host komennon avulla saadaan tulostettua palvelimen IP-osoite. Lisäksi saadaan MX-records, jotka ovat jonkin tyyppisen sähköpostipalvelinten paketit. Alkuosassa nähdään kenen paketteje käsitellään ja lopussa näkyy ketkä niitä käsittelee.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/79ef0da5-824c-4ff5-97ba-116cbcc21a55)
