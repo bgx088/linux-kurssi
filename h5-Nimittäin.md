@@ -66,9 +66,9 @@ otin sen käyttöön sudo a2ensite alan.conf komennolla ja käynnistin taas apac
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/f343367d-e736-446c-b3b7-cebbef7f51f7)
 
-![image](https://github.com/bgx088/linux-kurssi/assets/143337810/e35345a5-1aac-439f-87ff-e5f563501102)
-
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/b5ff0470-36ac-4015-9024-c1c9c280b5fd)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/e35345a5-1aac-439f-87ff-e5f563501102)
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/ace4d54b-0f82-4064-9c11-3efe9c3b6c6b)
 
