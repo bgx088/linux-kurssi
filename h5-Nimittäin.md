@@ -55,3 +55,10 @@ Komennolla "dig alaninsivu.me" saadaa hyvin sekavan näköinen lista tietoa.
 * Vastauksen koko
 
 ## c) Etusivu uusiksi
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/40ab53ca-440a-41d2-b93d-cc13eea91f66)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/82533b97-273e-4eb6-ad0f-4827e6134d6a)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/76419449-af70-4f14-aff2-c13d539213f6)
+
