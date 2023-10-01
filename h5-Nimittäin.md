@@ -85,3 +85,7 @@ https://terokarvinen.com/2016/02/16/new-default-website-with-apache2-show-your-h
 https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
 
 https://httpd.apache.org/docs/2.4/vhosts/name-based.html
+
+https://education.github.com
+
+https://www.namecheap.com
