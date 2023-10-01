@@ -76,7 +76,7 @@ Tämän jälkeen sivusto näytti forbideniä ja jäin tähän kohtaan hieman jum
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/ace4d54b-0f82-4064-9c11-3efe9c3b6c6b)
 
-##Lähteet
+## Lähteet
 
 https://www.makeuseof.com/you-dont-have-permission-to-access-on-this-server/
 
