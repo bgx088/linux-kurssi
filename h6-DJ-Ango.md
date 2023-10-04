@@ -34,3 +34,15 @@ Asennuksen jälkeen luodaan oma projekti "django-admin startproject alanti" ja v
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/0615b807-2130-4eb9-a4f1-f7da0d37b13c)
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/4cd41674-d38a-4ea4-a321-aa0a3ca69406)
+
+## b) Tee yksinkertainen esimerkkitietokanta django-kehitysympäristöön
+
+Lisätään /admin url osoitteeseen. http://127.0.0.1:8000/admin/. Päivitetään tietokanta"./manage.py makemigrations" ".manage.py migrate" ja lisätään käyttäjiä
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/2be58bf6-7688-4f96-acc8-6356edc9dd98)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/743aef5b-7cad-4655-9ab7-97fb77e009f5)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/91144627-f1d1-41f2-a482-513d08334d27)
+
+
