@@ -37,11 +37,17 @@ Asennuksen jälkeen luodaan oma projekti "django-admin startproject alanti" ja v
 
 ## b) Tee yksinkertainen esimerkkitietokanta django-kehitysympäristöön
 
-Lisätään /admin url osoitteeseen. http://127.0.0.1:8000/admin/. Päivitetään tietokanta"./manage.py makemigrations" ".manage.py migrate" ja lisätään käyttäjiä
+Lisätään /admin url osoitteeseen. http://127.0.0.1:8000/admin/. Päivitetään tietokanta"./manage.py makemigrations" ".manage.py migrate" ja lisätään käyttäjä "./manage.py creatsuperuser" ja ladataan pwgen, jonka avulla voidaan luoda salasanoja. 
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/2be58bf6-7688-4f96-acc8-6356edc9dd98)
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/743aef5b-7cad-4655-9ab7-97fb77e009f5)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/a3e8431b-41e6-412d-a4d9-e6c6b19070bc)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/d3bdbb0f-023a-46b4-845c-d86cf0ca6fbb)
+
+
 
 
 
