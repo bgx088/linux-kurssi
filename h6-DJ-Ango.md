@@ -42,7 +42,7 @@ Lisätään /admin url osoitteeseen. http://127.0.0.1:8000/admin/. Päivitetää
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/2be58bf6-7688-4f96-acc8-6356edc9dd98)
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/743aef5b-7cad-4655-9ab7-97fb77e009f5)
-
+1
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/91144627-f1d1-41f2-a482-513d08334d27)
 
 
