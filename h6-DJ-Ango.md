@@ -47,7 +47,7 @@ Lisätään /admin url osoitteeseen. http://127.0.0.1:8000/admin/. Päivitetää
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/d3bdbb0f-023a-46b4-845c-d86cf0ca6fbb)
 
-
+Näin superuser on luoto ja kirjauduttu sisään 127.0.0.1:8000/admin/
 
 
 
