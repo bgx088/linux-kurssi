@@ -9,13 +9,14 @@ Python Web - Idea to Production - 2023
 * Opit pitämään ohjelmat aina ajan tasalla.
 
 Django 4 Instant Customer Database Tutorial
-* Djangon asennus
-* Django projektin pystyttäminen
-* Käyttöhien luominen ja muokkaaminen
+* Djangon asennus.
+* Django projektin pystyttäminen.
+* Käyttöhien luominen ja muokkaaminen.
 
 Deploy Django 4 - Production Install
-* Djangon ja Apachen yhdistäminen
+* Djangon ja Apachen yhdistäminen.
 * Molempien configurointi.
-* Pythonin lisäys
+* Pythonin lisäys.
+* Projektin teko ja ylläpitäjän hallinta.
 
 
