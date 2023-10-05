@@ -66,3 +66,11 @@ Seuraavaksi lisätään tämä adminiin "micro crm/admin.py". Tämän jälkeen k
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/7d9e0c52-9998-4e04-ae37-c4d10b4ca528)
 
 Ja näin Customers on luotu
+
+## Lähteet
+
+https://terokarvinen.com/2022/django-instant-crm-tutorial/
+
+https://terokarvinen.com/2023/python-web-idea-to-production/#osaamistavoitteet
+
+https://terokarvinen.com/2022/deploy-django/
