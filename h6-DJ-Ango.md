@@ -49,6 +49,20 @@ Lisätään /admin url osoitteeseen. http://127.0.0.1:8000/admin/. Päivitetää
 
 Näin superuser on luoto ja kirjauduttu sisään 127.0.0.1:8000/admin/
 
+Seuraavaksi luodaan asiakas tietokanta ".manage.py startapp crm" ka lisätään crm tiedostoon "micro alanti/settings.py" 
 
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/2a881678-3234-4973-9b37-f61f1d693d89)
 
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/99d6c461-321d-4b29-ade2-bc9f7e37249f)
 
+Seuraavaksi lisätään models, jossa on customer luokka "micro crm/models.py". Tässä vaiheessa tein kirjoitus virheen "max_lenght" , mutta onneksi huomasin sen heti.
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/dccdf2a5-ce35-49ae-af16-d93d11f97898)
+
+Seuraavaksi lisätään tämä adminiin "micro crm/admin.py" 
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/5e0a30fa-0a47-4b59-bb33-dc568a282462)
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/7d9e0c52-9998-4e04-ae37-c4d10b4ca528)
+
+Ja näin Customers on luotu
