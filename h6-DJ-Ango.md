@@ -59,7 +59,7 @@ Seuraavaksi lisätään models, jossa on customer luokka "micro crm/models.py". 
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/dccdf2a5-ce35-49ae-af16-d93d11f97898)
 
-Seuraavaksi lisätään tämä adminiin "micro crm/admin.py" 
+Seuraavaksi lisätään tämä adminiin "micro crm/admin.py". Tämän jälkeen käynnistetään ja kirjaudutaan adminina sisään.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/5e0a30fa-0a47-4b59-bb33-dc568a282462)
 
