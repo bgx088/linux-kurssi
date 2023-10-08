@@ -36,5 +36,26 @@ C. Ei tarvinnut asentaa mitään nähtävästi.
 
 ## b) Käänä "Hei maailma" jollain muulla kielellä
 
+Bash. Ei tarvinnut latausta
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/b828b72f-81ee-4e61-abf0-73ad96d98679)
+
+
+## c) Esittele Pythonin käyttöä
+
+Kätevä laskin pythonin sisällä 
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/f037bbe0-7a71-4446-8be6-e8725c47bc26)
+
+## d)Tee shell script
+
+Googlasin ohjeet " simple shellscript on linux" ja päädyin todella simppeliin ja opettavaan videoon: https://www.youtube.com/watch?v=9y5TCwVU8iE&t=373s 
+
+Tein pienen muokkauksen esimerkkiin, mutta idea on sama.
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/8e15c2bc-fd53-441e-9295-05daf0fb05e1)
+
+
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/bfe3eb70-7669-4a71-931a-0aabdeddb193)
 
 
