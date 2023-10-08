@@ -66,7 +66,7 @@ Tein pienen muokkauksen esimerkkiin, mutta idea on sama.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/ab34199b-546c-41f2-984c-46d2ef46c7f5)
 
-ja näin pienen säädön jälkeen scripti toimii ilman polkua.
+ja näin pienen säädön jälkeen scripti toimii ilman polkua. (muokkasin scriptiä, että se vain kysyy "what is your name" :DD)
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/584e2768-152f-438a-a708-593ae0f9ec1f)
 
