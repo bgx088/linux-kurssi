@@ -58,4 +58,6 @@ Tein pienen muokkauksen esimerkkiin, mutta idea on sama.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/bfe3eb70-7669-4a71-931a-0aabdeddb193)
 
+## e) Tee uusi komento Linuxiin
+
 
