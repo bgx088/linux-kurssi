@@ -77,6 +77,20 @@ En tehnyt mitään muuta kuin loin uuden virtuaalikoneen h1 ohjeiden avulla.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/1a40c314-6a53-4e57-a1b6-b3cfdafa4a68)
 
+## Lähteet 
+
+https://terokarvinen.com/2023/linux-palvelimet-2023-alkusyksy/
+
+https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/
+
+https://www.youtube.com/watch?v=9y5TCwVU8iE&t=373s 
+
+https://terokarvinen.com/2021/install-debian-on-virtualbox/
+
+
+
+
+
 
 
 
