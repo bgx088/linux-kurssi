@@ -71,4 +71,5 @@ En tehnyt mitään muuta kuin loin uuden virtuaalikoneen h1 ohjeiden avulla.
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/1a40c314-6a53-4e57-a1b6-b3cfdafa4a68)
 
 
+![image](https://github.com/bgx088/linux-kurssi/assets/143337810/ab34199b-546c-41f2-984c-46d2ef46c7f5)
 
