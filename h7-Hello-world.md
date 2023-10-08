@@ -2,6 +2,8 @@
 
 ## x) Kaikki läksyt tähän
 
+H0: https://github.com/bgx088/linux-kurssi/blob/main/jotain.md
+
 H1: https://github.com/bgx088/linux-kurssi/blob/main/h1-oma-linux.md
 
 H2: https://github.com/bgx088/linux-kurssi/blob/main/h2-komentaja-Pingviini.md
@@ -13,6 +15,8 @@ H4: https://github.com/bgx088/linux-kurssi/blob/main/h4-Maailma-kuulee.md
 H5: https://github.com/bgx088/linux-kurssi/blob/main/h5-Nimittäin.md
 
 H6: https://github.com/bgx088/linux-kurssi/blob/main/h6-DJ-Ango.md
+
+H7: https://github.com/bgx088/linux-kurssi/edit/main/h7-Hello-world.md
 
 ## y) Tiivistelmä
 
