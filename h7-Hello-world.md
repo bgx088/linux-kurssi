@@ -73,7 +73,7 @@ ja näin pienen säädön jälkeen scripti toimii ilman polkua. (muokkasin scrip
 
 ## g) Asenna arvioitavaa laboratorioharjoitusta varten itsellesi uusi tyhjä virtuaalikone
 
-Loin uuden virtuaali koneen ja latasin debianin sinne. Päivitin paketit ja latasin palomuurin.
+Loin uuden virtuaalikoneen ja latasin debianin sinne. Päivitin paketit ja latasin palomuurin.
 
 ![image](https://github.com/bgx088/linux-kurssi/assets/143337810/1a40c314-6a53-4e57-a1b6-b3cfdafa4a68)
 
